@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A petition presented to the honourable House of Commons, the 22. of August, 1648. of one hundred forty odd feild officers, and fifteen hundred commission officers and others, many of them being citizens of quality. With the names of the persons who presented the petition, who were twice called into the House, by the Sernjeant at Armes with the mace. The speech which Leivt. Col. Beecher made to the Speaker of at the delivering of the said petition. And the noble answer which Mr. Speaker gave to the gentleman, and the gallant sence of the House upon their petition. With the names of the gentlemen who are intrusted with the managing of the same.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90610</idno><idno type="EEBO-CITATION">99864592</idno>
+  <idno type="VID">162157</idno>
+  <idno type="EEBO-PROQUEST">2240902342</idno>
+  
+            <idno type="STC">Wing P1846</idno>
+            <idno type="STC">Thomason E461_1</idno>
+            <idno type="STC">ESTC R205155</idno>
+            <idno type="PROQUEST">99864592</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864592e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90610)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162157)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E461[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A petition presented to the honourable House of Commons, the 22. of August, 1648. of one hundred forty odd feild officers, and fifteen hundred commission officers and others, many of them being citizens of quality. With the names of the persons who presented the petition, who were twice called into the House, by the Sernjeant at Armes with the mace. The speech which Leivt. Col. Beecher made to the Speaker of at the delivering of the said petition. And the noble answer which Mr. Speaker gave to the gentleman, and the gallant sence of the House upon their petition. With the names of the gentlemen who are intrusted with the managing of the same.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.P.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug ye 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162157:1"/>
+            <p>A PETITION Presented to the Honourable House of Commons, the 22. of <hi>August,</hi> 1648. of one hundred forty odd Feild Officers, and fifteen hun<g ref="char:EOLhyphen"/>dred Commission Officers and others, many of them being Citizens of quality.</p>
+            <p>With the names of the persons who presented the Petition, who were twice called into the House, by the Serjeant at Armes with the Mace.</p>
+            <p>The Speech which Lievt. Col. <hi>Beecher</hi> made to the Speaker at the delivering of the said Petition. And the noble Answer which Mr. Speaker gave to the Gentleman, and the gallant sence of the House upon their Petition.</p>
+            <p>With the names of the Gentlemen who are in<g ref="char:EOLhyphen"/>trusted with the managing of the same.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>T. P.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition_to_Parliament">
+            <pb facs="tcp:162157:2"/>
+            <pb n="1" facs="tcp:162157:2"/>
+            <head type="sub">To the Honourable House of Commons assembled in Parliament.</head>
+            <head> The humble Petition of the Reduced Officers, and our Soldiers, who have faithfully served in the great Cause, which by Gods per<g ref="char:EOLhyphen"/>mission they will never desert,, and are not in the Petition presented the 8. <hi>Aug.</hi> of this present moneth intituled the humble Petition of the Reduced Officers and Soldiers that have faithfully served &amp;c.</head>
+            <opener>Humbly Sheweth,</opener>
+            <p>THat this Honourable House, having taken into consideration the aforesaid Petition, did referre it to a Committee wherof Mr. <hi>Knightley</hi> had the Chayre for the finding out some meanes, to satisfie the desires of the Petitionets; we hope &amp; humbly con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ive that it is not the intent of this Honourable <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouse to exclude any that have faithfully served
+<pb n="3" facs="tcp:162157:3"/> Parliament, though no<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> subscribed to the fore<g ref="char:EOLhyphen"/>mentioned Petition.</p>
+            <p>
+               <hi>Wee therefore humbly pray, that your honours would be pleased to take your Petitioners into equall consi<g ref="char:EOLhyphen"/>deration, only in point of Arreares and indempnity with the rest of the Officers that have subscribed the former Petition, your Petitioners being still ready to serve you with their Lives, and For<g ref="char:EOLhyphen"/>tunes, according to their first Engagement.</hi>
+            </p>
+            <closer>And wee shall ever pray, &amp;c.
+</closer>
+            <postscript>
+               <p>
+                  <list>
+                     <head>This Petition was presented by,</head>
+                     <item>
+                        <hi>Lievt. Col Beecher.</hi>
+                     </item>
+                     <item>
+                        <hi>Maior Coshe.</hi>
+                     </item>
+                     <item>
+                        <hi>Maior Zanche▪</hi>
+                     </item>
+                     <item>
+                        <hi>Maior Lomgeishe.</hi>
+                     </item>
+                     <item>
+                        <hi>Capt. Hull.</hi>
+                     </item>
+                     <item>
+                        <hi>Capt. Spering.</hi>
+                     </item>
+                     <item>
+                        <hi>Capt. Iudd.</hi>
+                     </item>
+                  </list>
+               </p>
+            </postscript>
+         </div>
+         <div type="speech">
+            <p>Leivt. Col. at the delivery addressed himself to Mr. <hi>Speaker,</hi> and delivered himself in these words.</p>
+            <p>Mr. <hi>Speaker,</hi> these Gentlemen, together with
+<pb n="1" facs="tcp:162157:3"/> my self are elected to present an humble Petition to this Honourable House, signed by many hun<g ref="char:EOLhyphen"/>dred Feild Officers and others, which have faith<g ref="char:EOLhyphen"/>fully served the Parliament, Mr. <hi>Speaker,</hi> we doubt not but this honourable house hath had some ex<g ref="char:EOLhyphen"/>perience of the faithfullnesse, integrity, and con<g ref="char:EOLhyphen"/>stancy of many of the Petitioners to the Parlia<g ref="char:EOLhyphen"/>ment, and their iust cause, and we hope that all the subscribers doe really intend heartily to per<g ref="char:EOLhyphen"/>forme, that which they have by their subscripti<g ref="char:EOLhyphen"/>ons ingaged themselves unto. The further consi<g ref="char:EOLhyphen"/>deration of this petition, we humbly tender to this honourable House.</p>
+         </div>
+         <div type="response">
+            <pb n="4" facs="tcp:162157:4"/>
+            <head>
+               <date>
+                  <hi>Die Martis</hi> 22. Augustii 1648.</date>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He House being informed that the Reduced Officers and Soldiers were at the doore, they were called in, and then presented their Petition, which after the Petitioners were withdrawn, Was read, and was Intituled, <hi>The humble Petition of many reduced Offi<g ref="char:EOLhyphen"/>cers and Soldiers, who have faithfully served in the great Cause, which by Gods permission they will never desert, and are not in the Petition presented the 8. of this present moneth.</hi>
+            </p>
+            <p>
+               <hi>Entituled, the humble Petition of the Reduced Of<g ref="char:EOLhyphen"/>ficers and Soldiers that have faithfully served the, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Resolved,</hi>
+            </p>
+            <p>That the Petitioners as to their Arrears and In<g ref="char:EOLhyphen"/>dempnity, be put into the same condition that the other Reduced Officers and Soldiers who formerly petitioned are according to the desire of their Petition.</p>
+            <pb n="5" facs="tcp:162157:4"/>
+            <p>The Petitioners being again called in, Mr. Speaker by command of the House gave them this Answer.</p>
+            <p>The House has read your Petition, and they have commanded me to give you their sence thereupon.</p>
+            <p>They have taken notice of your modest and discreet demeanors, and also of the manner, be<g ref="char:EOLhyphen"/>ing presented by you in a civill and faire way, and command me to let you know, that they have granted your desire, that you be put into the same condition, that the former reduced Officers and Soldiers that petitioned are in. They doe take notice of your affections formerly shewn, and now largely expressed in your Petition, and have commanded me to give you very hearty thanks.</p>
+            <closer>
+               <signed>H. Elsing Cler. Parl. Dom. Com.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <list>
+                     <head>The names of the Gentlemen intrusted for the managing the Petition.</head>
+                     <pb n="6" facs="tcp:162157:5"/>
+                     <item>
+                        <hi>Adjutant Generall Gray.</hi>
+                     </item>
+                     <item>
+                        <hi>Maior Waraford.</hi>
+                     </item>
+                     <item>
+                        <hi>Lievt. Col▪ Beecher.</hi>
+                     </item>
+                     <item>
+                        <hi>Lievt. Col. Sadler.</hi>
+                     </item>
+                     <item>
+                        <hi>Maior Zanche.</hi>
+                     </item>
+                     <item>
+                        <hi>Maior Coshe.</hi>
+                     </item>
+                     <item>
+                        <hi>Maior Lomgrish.</hi>
+                     </item>
+                     <item>
+                        <hi>Maior Hu<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ste.</hi>
+                     </item>
+                     <item>
+                        <hi>Maior Warren.</hi>
+                     </item>
+                     <item>
+                        <hi>Capt Lomgrish.</hi>
+                     </item>
+                     <item>
+                        <hi>Capt. Evans.</hi>
+                     </item>
+                     <item>
+                        <hi>Capt. Hull.</hi>
+                     </item>
+                     <item>
+                        <hi>Capt. Spering.</hi>
+                     </item>
+                     <item>
+                        <hi>Capt. Awder.</hi>
+                     </item>
+                     <item>
+                        <hi>Capt. Judd.</hi>
+                     </item>
+                  </list>
+               </p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
